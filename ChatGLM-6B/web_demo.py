@@ -9,7 +9,6 @@ model = model.eval()
 
 """Override Chatbot.postprocessafdadfafasd"""
 
-
 def postprocess(self, y):
     if y is None:
         return []
@@ -22,7 +21,6 @@ def postprocess(self, y):
 
 
 gr.Chatbot.postprocess = postprocess
-
 
 def parse_text(text):
     """copy from https://github.com/GaiZhenbiao/ChuanhuChatGPT/"""
@@ -40,22 +38,26 @@ def parse_text(text):
         else:
             if i > 0:
                 if count % 2 == 1:
-                    line = line.replace("`", "\`")
-                    line = line.replace("<", "&lt;")
-                    line = line.replace(">", "&gt;")
-                    line = line.replace(" ", "&nbsp;")
-                    line = line.replace("*", "&ast;")
-                    line = line.replace("_", "&lowbar;")
-                    line = line.replace("-", "&#45;")
-                    line = line.replace(".", "&#46;")
-                    line = line.replace("!", "&#33;")
-                    line = line.replace("(", "&#40;")
-                    line = line.replace(")", "&#41;")
-                    line = line.replace("$", "&#36;")
+                    # HTML entity mapping for safe character escaping
+                    html_escape_map = {
+                        "`": "&#96;",
+                        "<": "&lt;",
+                        ">": "&gt;",
+                        " ": "&nbsp;",
+                        "*": "&ast;",
+                        "_": "&lowbar;",
+                        "-": "&#45;",
+                        ".": "&#46;",
+                        "!": "&#33;",
+                        "(": "&#40;",
+                        ")": "&#41;",
+                        "$": "&#36;"
+                    }
+                    for char, entity in html_escape_map.items():
+                        line = line.replace(char, entity)
                 lines[i] = "<br>"+line
     text = "".join(lines)
     return text
-
 
 def predict(input, chatbot, max_length, top_p, temperature, history):
     chatbot.append((parse_text(input), ""))
@@ -65,17 +67,14 @@ def predict(input, chatbot, max_length, top_p, temperature, history):
 
         yield chatbot, history
 
-
 def reset_user_input():
     return gr.update(value='')
-
 
 def reset_state():
     return [], []
 
-
 with gr.Blocks() as demo:
-    gr.HTML("""<h1 align="center">Hi, buddy</h1>""")
+    gr.HTML("""<h1 align=\"center\">Hi, buddy</h1>""")
 
     chatbot = gr.Chatbot()
     with gr.Row():
