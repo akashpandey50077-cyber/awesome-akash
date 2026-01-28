@@ -303,9 +303,9 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Business
 
-- [Odoo](odoo)
-- [RAIR-Dapp](RAIR-Dapp)
-- [n8n](n8n)
+@- [Odoo](odoo)
+@- [RAIR-Dapp](RAIR-Dapp)
+@- [n8n](n8n)
 
 ### Games
 
@@ -540,8 +540,6 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Odoo](odoo)
+@- [RAIR-Dapp](RAIR-Dapp)
+@- [n8n](n8n)
