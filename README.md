@@ -238,11 +238,11 @@ To add a new template/resource:
 - [MySQL](MySQL)
 - [neo4j](neo4j)
 - [pgAdmin](pgadmin4)
-- [postgresSQL](postgres)
-- [Qdrant](qdrant)
-- [redis](redis)
-- [Supabase](supabase)
-- [SurrealDB](SurrealDB)
+@- [postgresSQL](postgres)
+@- [Qdrant](qdrant)
+@- [redis](redis)
+@- [Supabase](supabase)
+@- [SurrealDB](SurrealDB)
 
 ### DeFi
 
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [postgresSQL](postgres)
+@- [Qdrant](qdrant)
+@- [redis](redis)
+@- [Supabase](supabase)
+@- [SurrealDB](SurrealDB)
