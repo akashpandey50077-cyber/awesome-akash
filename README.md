@@ -228,11 +228,11 @@ To add a new template/resource:
 
 ### Databases and Administration
 
-- [adminer](adminer)
-- [CockroachDB](CockroachDB)
-- [CouchDB](couchdb)
-- [DefraDB](defradb)
-- [InfluxDB](influxdb)
+@- [adminer](adminer)
+@- [CockroachDB](CockroachDB)
+@- [CouchDB](couchdb)
+@- [DefraDB](defradb)
+@- [InfluxDB](influxdb)
 - [json-server](json-server)
 - [mongoDB](mongoDB)
 - [MySQL](MySQL)
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [adminer](adminer)
+@- [CockroachDB](CockroachDB)
+@- [CouchDB](couchdb)
+@- [DefraDB](defradb)
+@- [InfluxDB](influxdb)
