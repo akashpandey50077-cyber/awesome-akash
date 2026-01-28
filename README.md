@@ -540,4 +540,16 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 11. **Create a New Folder:**
+ @- Name your folder using lowercase, hyphen-separated naming (e.g., `my-template`).
+  @- Place it in the root directory.
+
+2. **Required Files:**
+  @- `deploy.yaml` — Main deployment SDL.
+  @- `README.md` — Include instructions for setup, usage, and details about your template/resource.
+  @- *(Optional)* `config.json` — Custom configuration (e.g., logo). Must follow the schema in `config.schema.json`. See [DeepSeek-R1/config.json](DeepSeek-R1/config.json) for an example.
+
+3. **Update Table of Contents:**
+ @- Add your template/resource in the appropriate category section in the Table of Contents below, maintaining alphabetical order within the category.
+ @- Use the format: `[Display Name](#folder-name)` where "folder-name" matches your actual folder name.
+ @- Note: The console API has a 5-minute cache, so changes may take up to 5 minutes to appear.
