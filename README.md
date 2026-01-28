@@ -296,10 +296,10 @@ Awesome DeFi apps you can deploy on Akash
 - [Bitcoin Cash Node](bitcoincashnode)
 - [Handshake](handshake)
 - [Fuse Network Node](fuse-network-node)
-- [Injective](injective)
-- [Starknet Node by Juno](juno)
-- [Witness Chain Watchtower](witnesschain-watchtower)
-- [Concordium node](concordium)
+@- [Injective](injective)
+@- [Starknet Node by Juno](juno)
+@- [Witness Chain Watchtower](witnesschain-watchtower)
+@- [Concordium node](concordium)
 
 ### Business
 
@@ -540,8 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Injective](injective)
+@- [Starknet Node by Juno](juno)
+@- [Witness Chain Watchtower](witnesschain-watchtower)
+@- [Concordium node](concordium)
