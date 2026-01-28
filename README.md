@@ -462,3 +462,30 @@ Awesome DeFi apps you can deploy on Akash
 - [NextJS](nextjs)
 - [React](react)
 - [Ruby on Rails](ruby-on-rails)
+        storage:
+          size: 100Gi
+        gpu:
+          units: 1
+          attributes:
+            vendor:
+              nvidia:
+                - model: h100
+                - model: a100
+                - model: rtx3090
+                - model: rtx4090
+                - model: rtx8000
+                - model: rtxa6000
+                - model: a40
+                - model: p40
+  placement:
+    akash:
+      pricing:
+        flock-validater:
+          denom: uakt
+          amount: 10000
+
+deployment:
+  flock-validater:
+    akash:
+      profile: flock-validater
+      count: 1
