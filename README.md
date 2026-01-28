@@ -160,8 +160,8 @@ To add a new template/resource:
 - [Qwen3-235B-A22B-Thinking-2507-FP8](Qwen3-235B-A22B-Thinking-2507-FP8)
 - [Qwen3-Coder-480B-A35B-Instruct](Qwen3-Coder-480B-A35B-Instruct)
 - [Qwen3-Next-80B-A3B-Instruct](Qwen3-Next-80B-A3B-Instruct)
-- [Qwen-QwQ-32B](QwQ-32B)
-- [RedPajama-INCITE-7B-Instruct](redpajama-incite-7b-instruct)
+@- [Qwen-QwQ-32B](QwQ-32B)
+@- [RedPajama-INCITE-7B-Instruct](redpajama-incite-7b-instruct)
 - [Semantra](semantra)
 - [Serge](serge-gpu)
 - [Stable Diffusion](stable-diffusion-ui)
@@ -540,8 +540,5 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Qwen-QwQ-32B](QwQ-32B)
+@- [RedPajama-INCITE-7B-Instruct](redpajama-incite-7b-instruct)
