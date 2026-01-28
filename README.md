@@ -45,13 +45,13 @@ To add a new template/resource:
 - [Business](#business)
 - [Games](#games)
 - [Game Servers](#game-servers)
-- [Hosting](#hosting)
-- [Media](#media)
-- [Search Engines](#search-engines)
-- [Mining - CPU](#mining---cpu)
-- [Mining - GPU](#mining---gpu)
-- [Mining Pools](#mining-pools)
-- [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
+@- [Hosting](#hosting)
+@- [Media](#media)
+@- [Search Engines](#search-engines)
+@- [Mining - CPU](#mining---cpu)
+@- [Mining - GPU](#mining---gpu)
+@- [Mining Pools](#mining-pools)
+@- [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
 - [Project Management](#project-management)
 - [Social](#social)
 - [Tools](#tools)
@@ -540,4 +540,10 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Hosting](#hosting)
+@- [Media](#media)
+@- [Search Engines](#search-engines)
+@- [Mining - CPU](#mining---cpu)
+@- [Mining - GPU](#mining---gpu)
+@- [Mining Pools](#mining-pools)
+@- [Peer-to-peer File Sharing]
