@@ -151,9 +151,9 @@ To add a new template/resource:
 - [Open GPT](open-gpt)
 - [Open WebUI](open-webui-gpu)
 - [OpenAI gpt-oss-120b](openai-gpt-oss-120b)
-- [Pluralis-Node](Pluralis-Node)
-- [PrivateGPT](privategpt-gpu)
-- [Qwen3-235B-A22B-FP8](Qwen3-235B-A22B-FP8)
+@- [Pluralis-Node](Pluralis-Node)
+@- [PrivateGPT](privategpt-gpu)
+@- [Qwen3-235B-A22B-FP8](Qwen3-235B-A22B-FP8)
 - [Qwen3-235B-A22B-Instruct-2507](Qwen3-235B-A22B-Instruct-2507)
 - [Qwen3-235B-A22B-Instruct-2507-FP8](Qwen3-235B-A22B-Instruct-2507-FP8)
 - [Qwen3-235B-A22B-Thinking-2507](Qwen3-235B-A22B-Thinking-2507)
@@ -540,8 +540,6 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Pluralis-Node](Pluralis-Node)
+@- [PrivateGPT](privategpt-gpu)
+@- [Qwen3-235B-A22B-FP8](Qwen3-235B-A22B-FP8)
