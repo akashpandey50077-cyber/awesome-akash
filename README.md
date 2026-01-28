@@ -169,12 +169,12 @@ To add a new template/resource:
 - [StableStudio](StableStudio)
 - [StableSwarmUI](stableswarmui)
 - [Text generation WebUi](text-generation-webui)
-- [TTS](TTS)
-- [Unsloth AI](unsloth-ai)
-- [vllm](vllm)
-- [Whisper ASR](whisper-asr-gpu)
-- [Whisper GUI](whisper-gui-gpu)
-- [XLM-RoBERTa](XLM-RoBERTa)
+@- [TTS](TTS)
+@- [Unsloth AI](unsloth-ai)
+@- [vllm](vllm)
+@- [Whisper ASR](whisper-asr-gpu)
+@- [Whisper GUI](whisper-gui-gpu)
+@- [XLM-RoBERTa](XLM-RoBERTa)
 
 ### Blogging
 
@@ -540,8 +540,9 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [TTS](TTS)
+@- [Unsloth AI](unsloth-ai)
+@- [vllm](vllm)
+@- [Whisper ASR](whisper-asr-gpu)
+@- [Whisper GUI](whisper-gui-gpu)
+@- [XLM-RoBERTa](XLM-RoBERTa)
