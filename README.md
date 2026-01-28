@@ -127,12 +127,12 @@ To add a new template/resource:
 - [GPUStack](gpustack)
 - [GPUStack Worker](gpustack-worker)
 - [Grok](grok)
-- [Hermes-4-405B-FP8](Hermes-4-405B-FP8)
-- [InvokeAI](invoke-ai-gpu)
-- [Kimi-K2-Thinking](Kimi-K2-Thinking)
-- [Llama-2-70B](Llama-2-70B)
-- [Llama-3-8B](Llama-3-8B)
-- [Llama-3-Groq-8B-Tool-Use](Llama-3-Groq-8B-Tool-Use)
+@- [Hermes-4-405B-FP8](Hermes-4-405B-FP8)
+@- [InvokeAI](invoke-ai-gpu)
+@- [Kimi-K2-Thinking](Kimi-K2-Thinking)
+@- [Llama-2-70B](Llama-2-70B)
+@- [Llama-3-8B](Llama-3-8B)
+@- [Llama-3-Groq-8B-Tool-Use](Llama-3-Groq-8B-Tool-Use)
 - [Llama-3-70B](Llama-3-70B)
 - [Llama-3.1-8B](Llama-3.1-8B)
 - [Llama-3.1-405B-AWQ-INT4](Llama-3.1-405B-AWQ-INT4)
@@ -540,8 +540,9 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Hermes-4-405B-FP8](Hermes-4-405B-FP8)
+@- [InvokeAI](invoke-ai-gpu)
+@- [Kimi-K2-Thinking](Kimi-K2-Thinking)
+@- [Llama-2-70B](Llama-2-70B)
+@- [Llama-3-8B](Llama-3-8B)
+@- [Llama-3-Groq-8B-Tool-Use]
