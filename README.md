@@ -96,11 +96,11 @@ To add a new template/resource:
 
 ### AI - GPU
 
-- [AI-Image-App](AI-Image-App)
-- [AUTOMATIC1111](AUTOMATIC1111)
-- [Axolotl AI](axolotlai)
-- [BERT](bert)
-- [BERT Sentiment Analysis](bert-sentiment-analysis)
+@- [AI-Image-App](AI-Image-App)
+@- [AUTOMATIC1111](AUTOMATIC1111)
+@- [Axolotl AI](axolotlai)
+@- [BERT](bert)
+@- [BERT Sentiment Analysis](bert-sentiment-analysis)
 - [ChatGLM-6B](ChatGLM-6B)
 - [ComfyUI](comfyui)
 - [DeepSeek-Janus](DeepSeek-Janus)
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [AI-Image-App](AI-Image-App)
+@- [AUTOMATIC1111](AUTOMATIC1111)
+@- [Axolotl AI](axolotlai)
+@- [BERT](bert)
+@- [BERT Sentiment Analysis]
