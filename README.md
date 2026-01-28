@@ -281,11 +281,11 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Blockchain
 
-- [AvalancheGo](avalanche)
-- [Bitcoin Knots and mempool UI](bitcoin-knots-mempool-ui)
-- [Bitcoin](bitcoin)
-- [Centrifuge](centrifuge)
-- [Prysm Beacon](prysm-beacon)
+@- [AvalancheGo](avalanche)
+@- [Bitcoin Knots and mempool UI](bitcoin-knots-mempool-ui)
+@- [Bitcoin](bitcoin)
+@- [Centrifuge](centrifuge)
+@- [Prysm Beacon](prysm-beacon)
 - [Substrate Node](substrate-node)
 - [Near Node](near)
 - [Vidulum](vidulum)
@@ -540,8 +540,9 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1
+@- [AvalancheGo](avalanche)
+@- [Bitcoin Knots and mempool UI](bitcoin-knots-mempool-ui)
+@- [Bitcoin](bitcoin)
+@- [Centrifuge](centrifuge)
+@- [Prysm Beacon](prysm-beacon)
