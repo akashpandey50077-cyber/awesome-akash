@@ -215,10 +215,10 @@ To add a new template/resource:
 - [Azure Devops Agent](azure-devops-agent)
 - [Github Runner](ghrunner)
 - [Radicle](radicle)
-- [Automatic Deployment and CICD Template](automatic-deployment-CICD-template)
-- [Micro-services Example](micro-services-example)
-- [Gitea](gitea)
-- [Gogs](gogs)
+@- [Automatic Deployment and CICD Template](automatic-deployment-CICD-template)
+@- [Micro-services Example](micro-services-example)
+@- [Gitea](gitea)
+@- [Gogs](gogs)
 
 ### Data Visualization
 
@@ -540,8 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Automatic Deployment and CICD Template](automatic-deployment-CICD-template)
+@- [Micro-services Example](micro-services-example)
+@- [Gitea](gitea)
+@- [Gogs](gogs)
