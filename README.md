@@ -52,11 +52,11 @@ To add a new template/resource:
 - [Mining - GPU](#mining---gpu)
 - [Mining Pools](#mining-pools)
 - [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
-- [Project Management](#project-management)
-- [Social](#social)
-- [Tools](#tools)
-- [Network](#network)
-- [Video Conferencing](#video-conferencing)
+@- [Project Management](#project-management)
+@- [Social](#social)
+@- [Tools](#tools)
+@- [Network](#network)
+@- [Video Conferencing](#video-conferencing)
 - [Wallet](#wallet)
 - [Web Frameworks](#web-frameworks)
 
@@ -540,4 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Project Management](#project-management)
+@- [Social](#social)
+@- [Tools](#tools)
+@- [Network](#network)
+@- [Video Conferencing]
