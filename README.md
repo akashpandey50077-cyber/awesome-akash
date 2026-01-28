@@ -39,12 +39,12 @@ To add a new template/resource:
 - [CI/CD, DevOps](#cicd-devops)
 - [Data Visualization](#data-visualization)
 - [Databases and Administration](#databases-and-administration)
-- [DeFi](#defi)
-- [Benchmarking](#benchmarking)
-- [Blockchain](#blockchain)
-- [Business](#business)
-- [Games](#games)
-- [Game Servers](#game-servers)
+@- [DeFi](#defi)
+@- [Benchmarking](#benchmarking)
+@- [Blockchain](#blockchain)
+@- [Business](#business)
+@- [Games](#games)
+@- [Game Servers](#game-servers)
 - [Hosting](#hosting)
 - [Media](#media)
 - [Search Engines](#search-engines)
@@ -540,4 +540,9 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [DeFi](#defi)
+@- [Benchmarking](#benchmarking)
+@- [Blockchain](#blockchain)
+@- [Business](#business)
+@- [Games](#games)
+@- [Game Servers](#game-servers)
