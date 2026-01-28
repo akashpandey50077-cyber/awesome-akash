@@ -200,10 +200,10 @@ To add a new template/resource:
 
 ### Machine Learning
 
-- [Ray Cluster](ray)
-- [Jupyter Notebook](jupyter)
-- [Jupyter Notebook with ezkl](tensorflow-jupyter-ezkl)
-- [Jupyter Notebook with Python Kernel](tensorflow-jupyter-mnist)
+@- [Ray Cluster](ray)
+@- [Jupyter Notebook](jupyter)
+@- [Jupyter Notebook with ezkl](tensorflow-jupyter-ezkl)
+@- [Jupyter Notebook with Python Kernel](tensorflow-jupyter-mnist)
 - [TensorFlow Serving MNIST CNN Model](tensorflow-serving-mnist)
 - [Handwritten Digits Recognition Application](tensorflow-webapp-mnist)
 - [Doccano](doccano)
@@ -540,8 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Ray Cluster](ray)
+@- [Jupyter Notebook](jupyter)
+@- [Jupyter Notebook with ezkl](tensorflow-jupyter-ezkl)
+@- [Jupyter Notebook with Python Kernel](tensorflow-jupyter-mnist)
