@@ -162,10 +162,10 @@ To add a new template/resource:
 - [Qwen3-Next-80B-A3B-Instruct](Qwen3-Next-80B-A3B-Instruct)
 - [Qwen-QwQ-32B](QwQ-32B)
 - [RedPajama-INCITE-7B-Instruct](redpajama-incite-7b-instruct)
-- [Semantra](semantra)
-- [Serge](serge-gpu)
-- [Stable Diffusion](stable-diffusion-ui)
-- [Stable Diffusion Webui](stable-diffusion-webui)
+@- [Semantra](semantra)
+@- [Serge](serge-gpu)
+@- [Stable Diffusion](stable-diffusion-ui)
+@- [Stable Diffusion Webui](stable-diffusion-webui)
 - [StableStudio](StableStudio)
 - [StableSwarmUI](stableswarmui)
 - [Text generation WebUi](text-generation-webui)
@@ -540,8 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
+      count: 1@- [Semantra](semantra)
+@- [Serge](serge-gpu)
 @- [Stable Diffusion](stable-diffusion-ui)
+@- [Stable Diffusion Webui](stable-diffusion-webui)
