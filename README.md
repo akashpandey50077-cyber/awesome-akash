@@ -140,7 +140,7 @@ To add a new template/resource:
 - [Llama-3.1-405B-FP8](Llama-3.1-405B-FP8)
 - [Llama-3.2-3B](Llama-3.2-3B)
 - [Llama-3.2-11B-Vision-Instruct](Llama-3.2-11B-Vision-Instruct)
-- [Llama-3.2-90B-Vision-Instruct](Llama-3.2-90B-Vision-Instruct)
+@- [Llama-3.2-90B-Vision-Instruct](Llama-3.2-90B-Vision-Instruct)
 - [Llama-3.3-70B](Llama-3.3-70B)
 - [LLaMA-Factory](llama-factory)
 - [Llama-3_3-Nemotron-Super-49B-v1](Llama-3_3-Nemotron-Super-49B-v1)
@@ -540,8 +540,4 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Llama-3.2-90B-Vision-Instruct]
