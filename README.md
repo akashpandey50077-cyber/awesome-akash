@@ -190,8 +190,8 @@ To add a new template/resource:
 
 ### Built with Cosmos-SDK
 
-- [Dharani](Dharani)
-- [Big Dipper](big-dipper)
+@- [Dharani](Dharani)
+@- [Big Dipper](big-dipper)
 
 ### Chat
 
@@ -540,8 +540,5 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Dharani](Dharani)
+@- [Big Dipper](big-dipper)
