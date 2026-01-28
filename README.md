@@ -271,11 +271,11 @@ Awesome DeFi apps you can deploy on Akash
 - [Geekbench 5](geekbench)
 - [iPerf3](iperf3)
 - [LibreSpeed](librespeed)
-- [MonkeyTest](monkeytest)
-- [OpenSpeedTest](openspeedtest)
-- [Phoronix](phoronix)
-- [Serverbench](serverbench)
-- [Speedtest by Ookla](speedtest-cli)
+@- [MonkeyTest](monkeytest)
+@- [OpenSpeedTest](openspeedtest)
+@- [Phoronix](phoronix)
+@- [Serverbench](serverbench)
+@- [Speedtest by Ookla](speedtest-cli)
 - [Speedtest Tracker](speedtest-tracker)
 - [Persistent Storage benchmarking tool](persistent-storage-performance-testing)
 
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [MonkeyTest](monkeytest)
+@- [OpenSpeedTest](openspeedtest)
+@- [Phoronix](phoronix)
+@- [Serverbench](serverbench)
+@- [Speedtest by Ookla](speedtest-cli)
