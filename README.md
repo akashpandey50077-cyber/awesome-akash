@@ -222,9 +222,9 @@ To add a new template/resource:
 
 ### Data Visualization
 
-- [Metabase](metabase)
-- [Redash Data Charts for Akash Analytics](Redash)
-- [UFO Sightings](ufo-data-vis)
+@- [Metabase](metabase)
+@- [Redash Data Charts for Akash Analytics](Redash)
+@- [UFO Sightings](ufo-data-vis)
 
 ### Databases and Administration
 
@@ -540,8 +540,6 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Metabase](metabase)
+@- [Redash Data Charts for Akash Analytics](Redash)
+@- [UFO Sightings](ufo-data-vis)
