@@ -73,11 +73,11 @@ To add a new template/resource:
 - [BabyAGI](babyagi)
 - [BabyAGI-UI](babyagi-ui)
 - [Bark small](bark-small)
-- [Botpress](botpress)
-- [ChatChat](chatchat)
-- [Daila](daila)
-- [Faster Whisper](faster-whisper-cpu)
-- [Flowise](flowise)
+@- [Botpress](botpress)
+@- [ChatChat](chatchat)
+@- [Daila](daila)
+@- [Faster Whisper](faster-whisper-cpu)
+@- [Flowise](flowise)
 - [Eliza AI Agent](Elizaos-ai_Agents)
 - [InvokeAI](invoke-ai-cpu)
 - [Langflow](langflow)
@@ -540,4 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Botpress](botpress)
+@- [ChatChat](chatchat)
+@- [Daila](daila)
+@- [Faster Whisper](faster-whisper-cpu)
+@- [Flowise](flowise)
