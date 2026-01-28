@@ -101,12 +101,12 @@ To add a new template/resource:
 - [Axolotl AI](axolotlai)
 - [BERT](bert)
 - [BERT Sentiment Analysis](bert-sentiment-analysis)
-- [ChatGLM-6B](ChatGLM-6B)
-- [ComfyUI](comfyui)
-- [DeepSeek-Janus](DeepSeek-Janus)
-- [DeepSeek-R1](DeepSeek-R1)
-- [DeepSeek-R1-0528](DeepSeek-R1-0528)
-- [DeepSeek-R1-Distill-Qwen-7B](DeepSeek-R1-Distill-Qwen-7B)
+@- [ChatGLM-6B](ChatGLM-6B)
+@- [ComfyUI](comfyui)
+@- [DeepSeek-Janus](DeepSeek-Janus)
+@- [DeepSeek-R1](DeepSeek-R1)
+@- [DeepSeek-R1-0528](DeepSeek-R1-0528)
+@- [DeepSeek-R1-Distill-Qwen-7B](DeepSeek-R1-Distill-Qwen-7B)
 - [DeepSeek-R1-Distill-Qwen-1.5B](DeepSeek-R1-Distill-Qwen-1.5B)
 - [DeepSeek-R1-Distill-Qwen-14B](DeepSeek-R1-Distill-Qwen-14B)
 - [DeepSeek-R1-Distill-Qwen-32B](DeepSeek-R1-Distill-Qwen-32B)
@@ -540,8 +540,9 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [ChatGLM-6B](ChatGLM-6B)
+@- [ComfyUI](comfyui)
+@- [DeepSeek-Janus](DeepSeek-Janus)
+@- [DeepSeek-R1](DeepSeek-R1)
+@- [DeepSeek-R1-0528](DeepSeek-R1-0528)
+@- [DeepSeek-R1-Distill-Qwen-7B]
