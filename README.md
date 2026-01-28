@@ -258,11 +258,11 @@ Awesome DeFi apps you can deploy on Akash
 - [Uma Protocol](uma-protocol)
 - [Yearn.finance](Yearn.finance)
 - [ThorChain BEPSwap](Thorchain-BEPSwap)
-- [Curve](curve)
-- [Synthetix.Exchange](synthetix.exchange)
-- [Ren Protocol](renprotocol)
-- [yfii](yfii)
-- [Osmosis DEX](osmosis-fe)
+@- [Curve](curve)
+@- [Synthetix.Exchange](synthetix.exchange)
+@- [Ren Protocol](renprotocol)
+@- [yfii](yfii)
+@- [Osmosis DEX](osmosis-fe)
 
 ### Benchmarking
 
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Curve](curve)
+@- [Synthetix.Exchange](synthetix.exchange)
+@- [Ren Protocol](renprotocol)
+@- [yfii](yfii)
+@- [Osmosis DEX](osmosis-fe)
