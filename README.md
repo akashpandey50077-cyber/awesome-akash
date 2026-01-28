@@ -195,8 +195,8 @@ To add a new template/resource:
 
 ### Chat
 
-- [Mattermost](mattermost)
-- [Status](status)
+@- [Mattermost](mattermost)
+@- [Status](status)
 
 ### Machine Learning
 
@@ -540,8 +540,5 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Mattermost](mattermost)
+@- [Status](status)
