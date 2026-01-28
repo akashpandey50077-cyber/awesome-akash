@@ -62,9 +62,9 @@ To add a new template/resource:
 
 ### Official
 
-- [Lunie Wallet for Cosmos SDK](lunie-lite)
-- [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash)
-- [Ubuntu SSH](ssh-ubuntu)
+@- [Lunie Wallet for Cosmos SDK](lunie-lite)
+@- [Cosmos SDK Node](https://github.com/ovrclk/akash-o-akash)
+@- [Ubuntu SSH](ssh-ubuntu)
 
 ### AI - CPU
 
@@ -540,4 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1 
+@- [Lunie Wallet for Cosmos SDK](lunie-lite)
+@- [Cosmos SDK Node](https://github.com/ovrclk/akash-o-akash)
+@- [Ubuntu SSH](ssh-ubuntu)
