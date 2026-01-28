@@ -146,11 +146,11 @@ To add a new template/resource:
 - [Llama-3_3-Nemotron-Super-49B-v1](Llama-3_3-Nemotron-Super-49B-v1)
 - [Llama-4-Maverick-17B-128E-Instruct-FP8](Llama-4-Maverick-17B-128E-Instruct-FP8)
 - [Llama-4-Scout-17B-16E-Instruct](Llama-4-Scout-17B-16E-Instruct)
-- [Mistral-7B](Mistral-7B)
-- [Ollama](ollama-gpu)
-- [Open GPT](open-gpt)
-- [Open WebUI](open-webui-gpu)
-- [OpenAI gpt-oss-120b](openai-gpt-oss-120b)
+@- [Mistral-7B](Mistral-7B)
+@- [Ollama](ollama-gpu)
+@- [Open GPT](open-gpt)
+@- [Open WebUI](open-webui-gpu)
+@- [OpenAI gpt-oss-120b](openai-gpt-oss-120b)
 - [Pluralis-Node](Pluralis-Node)
 - [PrivateGPT](privategpt-gpu)
 - [Qwen3-235B-A22B-FP8](Qwen3-235B-A22B-FP8)
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Mistral-7B](Mistral-7B)
+@- [Ollama](ollama-gpu)
+@- [Open GPT](open-gpt)
+@- [Open WebUI](open-webui-gpu)
+@- [OpenAI gpt-oss-120b]
