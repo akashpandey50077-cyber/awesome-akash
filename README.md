@@ -29,11 +29,11 @@ To add a new template/resource:
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Official](#official)
-- [AI - CPU](#ai---cpu)
-- [AI - GPU](#ai---gpu)
-- [Blogging](#blogging)
-- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
+@- [Official](#official)
+@- [AI - CPU](#ai---cpu)
+@- [AI - GPU](#ai---gpu)
+@- [Blogging](#blogging)
+@- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
 - [Chat](#chat)
 - [Machine Learning](#machine-learning)
 - [CI/CD, DevOps](#cicd-devops)
@@ -544,4 +544,8 @@ deployment:
 @- [Open WebUI](open-webui-cpu)
 @- [PrivateGPT](privategpt-cpu)
 @- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+@- [Stable Diffusion](stable-diffusion-ui)@- [Official](#official)
+@- [AI - CPU](#ai---cpu)
+@- [AI - GPU](#ai---gpu)
+@- [Blogging](#blogging)
+@- [Built with Cosmos-SDK
