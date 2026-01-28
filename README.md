@@ -309,10 +309,10 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Games
 
-- [Minecraft](minecraft)
-- [Tetris](tetris)
-- [Pac-Man](pacman)
-- [Supermario](supermario)
+@- [Minecraft](minecraft)
+@- [Tetris](tetris)
+@- [Pac-Man](pacman)
+@- [Supermario](supermario)
 - [Minesweeper](minesweeper)
 - [Tetris2](tetris2)
 - [MemoryGame](MemoryGame)
@@ -540,8 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Minecraft](minecraft)
+@- [Tetris](tetris)
+@- [Pac-Man](pacman)
+@- [Supermario](supermario)
