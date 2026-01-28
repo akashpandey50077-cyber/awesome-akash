@@ -82,11 +82,11 @@ To add a new template/resource:
 - [InvokeAI](invoke-ai-cpu)
 - [Langflow](langflow)
 - [Morpheus Lumerin Node](morpheus-lumerin-node)
-- [Ollama](ollama-cpu)
-- [Open WebUI](open-webui-cpu)
-- [PrivateGPT](privategpt-cpu)
-- [Serge](serge-cpu)
-- [Stable Diffusion](stable-diffusion-ui)
+@- [Ollama](ollama-cpu)
+@- [Open WebUI](open-webui-cpu)
+@- [PrivateGPT](privategpt-cpu)
+@- [Serge](serge-cpu)
+@- [Stable Diffusion](stable-diffusion-ui)
 - [Terminal GPT](tgpt)
 - [Venice-ElizaOS](Venice-ElizaOS)
 - [Weaviate](weaviate)
@@ -540,4 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Ollama](ollama-cpu)
+@- [Open WebUI](open-webui-cpu)
+@- [PrivateGPT](privategpt-cpu)
+@- [Serge](serge-cpu)
+@- [Stable Diffusion](stable-diffusion-ui)
