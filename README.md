@@ -133,9 +133,9 @@ To add a new template/resource:
 - [Llama-2-70B](Llama-2-70B)
 - [Llama-3-8B](Llama-3-8B)
 - [Llama-3-Groq-8B-Tool-Use](Llama-3-Groq-8B-Tool-Use)
-- [Llama-3-70B](Llama-3-70B)
-- [Llama-3.1-8B](Llama-3.1-8B)
-- [Llama-3.1-405B-AWQ-INT4](Llama-3.1-405B-AWQ-INT4)
+@- [Llama-3-70B](Llama-3-70B)
+@- [Llama-3.1-8B](Llama-3.1-8B)
+@- [Llama-3.1-405B-AWQ-INT4](Llama-3.1-405B-AWQ-INT4)
 - [Llama-3.1-405B-BF16](Llama-3.1-405B-BF16)
 - [Llama-3.1-405B-FP8](Llama-3.1-405B-FP8)
 - [Llama-3.2-3B](Llama-3.2-3B)
@@ -540,8 +540,6 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Llama-3-70B](Llama-3-70B)
+@- [Llama-3.1-8B](Llama-3.1-8B)
+@- [Llama-3.1-405B-AWQ-INT4]
