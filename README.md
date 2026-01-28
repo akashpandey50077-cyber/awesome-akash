@@ -210,11 +210,11 @@ To add a new template/resource:
 
 ### CI/CD, DevOps
 
-- [Jenkins](jenkins)
-- [Bitbucket](bitbucket)
-- [Azure Devops Agent](azure-devops-agent)
-- [Github Runner](ghrunner)
-- [Radicle](radicle)
+@- [Jenkins](jenkins)
+@- [Bitbucket](bitbucket)
+@- [Azure Devops Agent](azure-devops-agent)
+@- [Github Runner](ghrunner)
+@- [Radicle](radicle)
 - [Automatic Deployment and CICD Template](automatic-deployment-CICD-template)
 - [Micro-services Example](micro-services-example)
 - [Gitea](gitea)
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Jenkins](jenkins)
+@- [Bitbucket](bitbucket)
+@- [Azure Devops Agent](azure-devops-agent)
+@- [Github Runner](ghrunner)
+@- [Radicle](radicle)
