@@ -544,4 +544,4 @@ deployment:
 @- [Open WebUI](open-webui-cpu)
 @- [PrivateGPT](privategpt-cpu)
 @- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+@- [Stable Diffusion]
