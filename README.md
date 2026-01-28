@@ -57,8 +57,8 @@ To add a new template/resource:
 - [Tools](#tools)
 - [Network](#network)
 - [Video Conferencing](#video-conferencing)
-- [Wallet](#wallet)
-- [Web Frameworks](#web-frameworks)
+@- [Wallet](#wallet)
+@- [Web Frameworks](#web-frameworks)
 
 ### Official
 
@@ -540,4 +540,5 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Wallet](#wallet)
+@- [Web Frameworks](#web-frameworks)
