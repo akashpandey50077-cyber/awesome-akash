@@ -34,11 +34,11 @@ To add a new template/resource:
 - [AI - GPU](#ai---gpu)
 - [Blogging](#blogging)
 - [Built with Cosmos-SDK](#built-with-cosmos-sdk)
-- [Chat](#chat)
-- [Machine Learning](#machine-learning)
-- [CI/CD, DevOps](#cicd-devops)
-- [Data Visualization](#data-visualization)
-- [Databases and Administration](#databases-and-administration)
+@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration](#databases-and-administration)
 - [DeFi](#defi)
 - [Benchmarking](#benchmarking)
 - [Blockchain](#blockchain)
@@ -540,4 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration]
