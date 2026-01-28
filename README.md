@@ -87,12 +87,12 @@ To add a new template/resource:
 @- [PrivateGPT](privategpt-cpu)
 @- [Serge](serge-cpu)
 @- [Stable Diffusion](stable-diffusion-ui)
-- [Terminal GPT](tgpt)
-- [Venice-ElizaOS](Venice-ElizaOS)
-- [Weaviate](weaviate)
-- [Chromadb](chromadb)
-- [Whisper ASR](whisper-asr-cpu)
-- [Whisper GUI](whisper-gui-cpu)
+@- [Terminal GPT](tgpt)
+@- [Venice-ElizaOS](Venice-ElizaOS)
+@- [Weaviate](weaviate)
+@- [Chromadb](chromadb)
+@- [Whisper ASR](whisper-asr-cpu)
+@- [Whisper GUI](whisper-gui-cpu)
 
 ### AI - GPU
 
@@ -540,8 +540,9 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Terminal GPT](tgpt)
+@- [Venice-ElizaOS](Venice-ElizaOS)
+@- [Weaviate](weaviate)
+@- [Chromadb](chromadb)
+@- [Whisper ASR](whisper-asr-cpu)
+@- [Whisper GUI](whisper-gui-cpu)
