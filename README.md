@@ -248,11 +248,11 @@ To add a new template/resource:
 
 Awesome DeFi apps you can deploy on Akash
 
-- [Uniswap](uniswap)
-- [dFed](dfed)
-- [Pancake Swap](pancake-swap)
-- [Augur](augur)
-- [Bancor](bancor)
+@- [Uniswap](uniswap)
+@- [dFed](dfed)
+@- [Pancake Swap](pancake-swap)
+@- [Augur](augur)
+@- [Bancor](bancor)
 - [Balancer](balancer)
 - [SushiSwap](sushiswap)
 - [Uma Protocol](uma-protocol)
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Uniswap](uniswap)
+@- [dFed](dfed)
+@- [Pancake Swap](pancake-swap)
+@- [Augur](augur)
+@- [Bancor](bancor)
