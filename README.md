@@ -178,10 +178,10 @@ To add a new template/resource:
 
 ### Blogging
 
-- [SteemCN](steemcn)
-- [Ghost](ghost)
-- [Ghost with Filebase Backup](ghost-filebase-backup)
-- [Grav](Grav)
+@- [SteemCN](steemcn)
+@- [Ghost](ghost)
+@- [Ghost with Filebase Backup](ghost-filebase-backup)
+@- [Grav](Grav)
 - [Wordpress](wordpress)
 - [Confluence](confluence)
 - [Drupal](drupal)
@@ -540,8 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [SteemCN](steemcn)
+@- [Ghost](ghost)
+@- [Ghost with Filebase Backup](ghost-filebase-backup)
+@- [Grav](Grav)
