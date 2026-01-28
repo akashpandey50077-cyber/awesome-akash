@@ -78,10 +78,10 @@ To add a new template/resource:
 - [Daila](daila)
 - [Faster Whisper](faster-whisper-cpu)
 - [Flowise](flowise)
-- [Eliza AI Agent](Elizaos-ai_Agents)
-- [InvokeAI](invoke-ai-cpu)
-- [Langflow](langflow)
-- [Morpheus Lumerin Node](morpheus-lumerin-node)
+@- [Eliza AI Agent](Elizaos-ai_Agents)
+@- [InvokeAI](invoke-ai-cpu)
+@- [Langflow](langflow)
+@- [Morpheus Lumerin Node](morpheus-lumerin-node)
 - [Ollama](ollama-cpu)
 - [Open WebUI](open-webui-cpu)
 - [PrivateGPT](privategpt-cpu)
@@ -540,4 +540,7 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Eliza AI Agent](Elizaos-ai_Agents)
+@- [InvokeAI](invoke-ai-cpu)
+@- [Langflow](langflow)
+@- [Morpheus Lumerin Node]
