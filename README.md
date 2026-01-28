@@ -182,11 +182,11 @@ To add a new template/resource:
 - [Ghost](ghost)
 - [Ghost with Filebase Backup](ghost-filebase-backup)
 - [Grav](Grav)
-- [Wordpress](wordpress)
-- [Confluence](confluence)
-- [Drupal](drupal)
-- [Wiki.js](wikijs)
-- [Nitropage](nitropage)
+@- [Wordpress](wordpress)
+@- [Confluence](confluence)
+@- [Drupal](drupal)
+@- [Wiki.js](wikijs)
+@- [Nitropage](nitropage)
 
 ### Built with Cosmos-SDK
 
@@ -540,8 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1@- [Ollama](ollama-cpu)
-@- [Open WebUI](open-webui-cpu)
-@- [PrivateGPT](privategpt-cpu)
-@- [Serge](serge-cpu)
-@- [Stable Diffusion](stable-diffusion-ui)
+      count: 1@- [Wordpress](wordpress)
+@- [Confluence](confluence)
+@- [Drupal](drupal)
+@- [Wiki.js](wikijs)
+@- [Nitropage](nitropage)
