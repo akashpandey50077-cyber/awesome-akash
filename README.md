@@ -29,11 +29,11 @@ To add a new template/resource:
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Official](#official)
-- [AI - CPU](#ai---cpu)
-- [AI - GPU](#ai---gpu)
-- [Blogging](#blogging)
-- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
+@- [Official](#official)
+@- [AI - CPU](#ai---cpu)
+@- [AI - GPU](#ai---gpu)
+@- [Blogging](#blogging)
+@- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
 - [Chat](#chat)
 - [Machine Learning](#machine-learning)
 - [CI/CD, DevOps](#cicd-devops)
@@ -540,4 +540,8 @@ deployment:
   flock-validater:
     akash:
       profile: flock-validater
-      count: 1
+      count: 1@- [Official](#official)
+@- [AI - CPU](#ai---cpu)
+@- [AI - GPU](#ai---gpu)
+@- [Blogging](#blogging)
+@- [Built with Cosmos-SDK]
