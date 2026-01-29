@@ -554,4 +554,10 @@ deployment:
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
+@- [Databases and Administration[PrivateGPT](privategpt-cpu)
+@- [Serge](serge-cpu)
+@- [Stable @- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
 @- [Databases and Administration
