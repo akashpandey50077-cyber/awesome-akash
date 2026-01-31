@@ -554,4 +554,10 @@ deployment:
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
-@- [Databases and Administration
+@- [Databases and AdministrationMining - CPU
+
+- [Chia Bladebit](chia-bladebit)
+- [Chia Bladebit Disk](chia-bladebit-disk)
+- [Chia Madmax](chia-madmax)
+- [Honeygain](honeygain)
+- [IPRoyal Pawns](iproyal-pawnsakaksh
