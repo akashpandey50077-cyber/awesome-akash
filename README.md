@@ -96,11 +96,11 @@ To add a new template/resource:
 
 ### AI - GPU
 
-- [AI-Image-App](AI-Image-App)
-- [AUTOMATIC1111](AUTOMATIC1111)
-- [Axolotl AI](axolotlai)
-- [BERT](bert)
-- [BERT Sentiment Analysis](bert-sentiment-analysis)
+@- [AI-Image-App](AI-Image-App)
+@- [AUTOMATIC1111](AUTOMATIC1111)
+@- [Axolotl AI](axolotlai)
+@- [BERT](bert)
+@- [BERT Sentiment Analysis](bert-sentiment-analysis)
 - [ChatGLM-6B](ChatGLM-6B)
 - [ComfyUI](comfyui)
 - [DeepSeek-Janus](DeepSeek-Janus)
@@ -555,3 +555,8 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [AI-Image-App](AI-Image-App)
+@- [AUTOMATIC1111](AUTOMATIC1111)
+@- [Axolotl AI](axolotlai)
+@- [BERT](bert)
+@- [BERT Sentiment Analysis](bert-sentiment-analysis)
