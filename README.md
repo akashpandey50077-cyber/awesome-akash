@@ -49,10 +49,10 @@ To add a new template/resource:
 - [Media](#media)
 - [Search Engines](#search-engines)
 - [Mining - CPU](#mining---cpu)
-- [Mining - GPU](#mining---gpu)
-- [Mining Pools](#mining-pools)
-- [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
-- [Project Management](#project-management)
+@- [Mining - GPU](#mining---gpu)
+@- [Mining Pools](#mining-pools)
+@- [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
+@- [Project Management](#project-management)
 - [Social](#social)
 - [Tools](#tools)
 - [Network](#network)
@@ -555,3 +555,7 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Mining - GPU](#mining---gpu)
+@- [Mining Pools](#mining-pools)
+@- [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
+@- [Project Management]
