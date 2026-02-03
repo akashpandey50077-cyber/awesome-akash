@@ -182,11 +182,11 @@ To add a new template/resource:
 - [Ghost](ghost)
 - [Ghost with Filebase Backup](ghost-filebase-backup)
 - [Grav](Grav)
-- [Wordpress](wordpress)
-- [Confluence](confluence)
-- [Drupal](drupal)
-- [Wiki.js](wikijs)
-- [Nitropage](nitropage)
+@- [Wordpress](wordpress)
+@- [Confluence](confluence)
+@- [Drupal](drupal)
+@- [Wiki.js](wikijs)
+@- [Nitropage](nitropage)
 
 ### Built with Cosmos-SDK
 
@@ -555,3 +555,8 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Wordpress](wordpress)
+@- [Confluence](confluence)
+@- [Drupal](drupal)
+@- [Wiki.js](wikijs)
+@- [Nitropage](nitropage)
