@@ -53,10 +53,10 @@ To add a new template/resource:
 - [Mining Pools](#mining-pools)
 - [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
 - [Project Management](#project-management)
-- [Social](#social)
-- [Tools](#tools)
-- [Network](#network)
-- [Video Conferencing](#video-conferencing)
+@- [Social](#social)
+@- [Tools](#tools)
+@- [Network](#network)
+@- [Video Conferencing](#video-conferencing)
 - [Wallet](#wallet)
 - [Web Frameworks](#web-frameworks)
 
@@ -555,3 +555,7 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Social](#social)
+@- [Tools](#tools)
+@- [Network](#network)
+@- [Video Conferencing](#video-conferencing)
