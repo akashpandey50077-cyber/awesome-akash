@@ -154,8 +154,8 @@ To add a new template/resource:
 - [Pluralis-Node](Pluralis-Node)
 - [PrivateGPT](privategpt-gpu)
 - [Qwen3-235B-A22B-FP8](Qwen3-235B-A22B-FP8)
-- [Qwen3-235B-A22B-Instruct-2507](Qwen3-235B-A22B-Instruct-2507)
-- [Qwen3-235B-A22B-Instruct-2507-FP8](Qwen3-235B-A22B-Instruct-2507-FP8)
+@- [Qwen3-235B-A22B-Instruct-2507](Qwen3-235B-A22B-Instruct-2507)
+@- [Qwen3-235B-A22B-Instruct-2507-FP8](Qwen3-235B-A22B-Instruct-2507-FP8)
 - [Qwen3-235B-A22B-Thinking-2507](Qwen3-235B-A22B-Thinking-2507)
 - [Qwen3-235B-A22B-Thinking-2507-FP8](Qwen3-235B-A22B-Thinking-2507-FP8)
 - [Qwen3-Coder-480B-A35B-Instruct](Qwen3-Coder-480B-A35B-Instruct)
@@ -555,3 +555,6 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+- [Qwen3-235B-A22B-FP8](Qwen3-235B-A22B-FP8)
+@- [Qwen3-235B-A22B-Instruct-2507](Qwen3-235B-A22B-Instruct-2507)
+@- [Qwen3-235B-A22B-Instruct-2507-FP8](Qwen3-235B-A22B-Instruct-2507-FP8)
