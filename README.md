@@ -169,12 +169,12 @@ To add a new template/resource:
 - [StableStudio](StableStudio)
 - [StableSwarmUI](stableswarmui)
 - [Text generation WebUi](text-generation-webui)
-- [TTS](TTS)
-- [Unsloth AI](unsloth-ai)
-- [vllm](vllm)
-- [Whisper ASR](whisper-asr-gpu)
-- [Whisper GUI](whisper-gui-gpu)
-- [XLM-RoBERTa](XLM-RoBERTa)
+@- [TTS](TTS)
+@- [Unsloth AI](unsloth-ai)
+@- [vllm](vllm)
+@- [Whisper ASR](whisper-asr-gpu)
+@- [Whisper GUI](whisper-gui-gpu)
+@- [XLM-RoBERTa](XLM-RoBERTa)
 
 ### Blogging
 
@@ -555,3 +555,9 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [TTS](TTS)
+@- [Unsloth AI](unsloth-ai)
+@- [vllm](vllm)
+@- [Whisper ASR](whisper-asr-gpu)
+@- [Whisper GUI](whisper-gui-gpu)
+@- [XLM-RoBERTa](XLM-RoBERTa)
