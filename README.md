@@ -87,12 +87,12 @@ To add a new template/resource:
 @- [PrivateGPT](privategpt-cpu)
 @- [Serge](serge-cpu)
 @- [Stable Diffusion](stable-diffusion-ui)
-- [Terminal GPT](tgpt)
-- [Venice-ElizaOS](Venice-ElizaOS)
-- [Weaviate](weaviate)
-- [Chromadb](chromadb)
-- [Whisper ASR](whisper-asr-cpu)
-- [Whisper GUI](whisper-gui-cpu)
+@- [Terminal GPT](tgpt)
+@- [Venice-ElizaOS](Venice-ElizaOS)
+@- [Weaviate](weaviate)
+@- [Chromadb](chromadb)
+@- [Whisper ASR](whisper-asr-cpu)
+@- [Whisper GUI](whisper-gui-cpu)
 
 ### AI - GPU
 
@@ -555,3 +555,9 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Terminal GPT](tgpt)
+@- [Venice-ElizaOS](Venice-ElizaOS)
+@- [Weaviate](weaviate)
+@- [Chromadb](chromadb)
+@- [Whisper ASR](whisper-asr-cpu)
+@- [Whisper GUI](whisper-gui-cpu)
