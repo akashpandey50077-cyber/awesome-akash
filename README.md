@@ -68,11 +68,11 @@ To add a new template/resource:
 
 ### AI - CPU
 
-- [Alpaca.cpp](alpaca-cpp)
-- [Auto-GPT](auto-gpt)
-- [BabyAGI](babyagi)
-- [BabyAGI-UI](babyagi-ui)
-- [Bark small](bark-small)
+@- [Alpaca.cpp](alpaca-cpp)
+@- [Auto-GPT](auto-gpt)
+@- [BabyAGI](babyagi)
+@- [BabyAGI-UI](babyagi-ui)
+@- [Bark small](bark-small)
 - [Botpress](botpress)
 - [ChatChat](chatchat)
 - [Daila](daila)
@@ -555,3 +555,8 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Alpaca.cpp](alpaca-cpp)
+@- [Auto-GPT](auto-gpt)
+@- [BabyAGI](babyagi)
+@- [BabyAGI-UI](babyagi-ui)
+@- [Bark small](bark-small)
