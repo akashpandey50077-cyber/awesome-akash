@@ -555,3 +555,8 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Ollama](ollama-cpu)
+@- [Open WebUI](open-webui-cpu)
+@- [PrivateGPT](privategpt-cpu)
+@- [Serge](serge-cpu)
+@- [Stable Diffusion](stable-diffusion-ui)
