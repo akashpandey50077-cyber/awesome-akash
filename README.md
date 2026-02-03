@@ -106,9 +106,9 @@ To add a new template/resource:
 - [DeepSeek-Janus](DeepSeek-Janus)
 - [DeepSeek-R1](DeepSeek-R1)
 - [DeepSeek-R1-0528](DeepSeek-R1-0528)
-- [DeepSeek-R1-Distill-Qwen-7B](DeepSeek-R1-Distill-Qwen-7B)
-- [DeepSeek-R1-Distill-Qwen-1.5B](DeepSeek-R1-Distill-Qwen-1.5B)
-- [DeepSeek-R1-Distill-Qwen-14B](DeepSeek-R1-Distill-Qwen-14B)
+@- [DeepSeek-R1-Distill-Qwen-7B](DeepSeek-R1-Distill-Qwen-7B)
+@- [DeepSeek-R1-Distill-Qwen-1.5B](DeepSeek-R1-Distill-Qwen-1.5B)
+@- [DeepSeek-R1-Distill-Qwen-14B](DeepSeek-R1-Distill-Qwen-14B)
 - [DeepSeek-R1-Distill-Qwen-32B](DeepSeek-R1-Distill-Qwen-32B)
 - [DeepSeek-R1-Distill-Llama-70B](DeepSeek-R1-Distill-Llama-70B)
 - [DeepSeek-R1-Distill-Llama-8B](DeepSeek-R1-Distill-Llama-8B)
@@ -555,3 +555,6 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [DeepSeek-R1-Distill-Qwen-7B](DeepSeek-R1-Distill-Qwen-7B)
+@- [DeepSeek-R1-Distill-Qwen-1.5B](DeepSeek-R1-Distill-Qwen-1.5B)
+@- [DeepSeek-R1-Distill-Qwen-14B]
