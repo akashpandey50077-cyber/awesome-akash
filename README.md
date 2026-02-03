@@ -178,10 +178,10 @@ To add a new template/resource:
 
 ### Blogging
 
-- [SteemCN](steemcn)
-- [Ghost](ghost)
-- [Ghost with Filebase Backup](ghost-filebase-backup)
-- [Grav](Grav)
+@- [SteemCN](steemcn)
+@- [Ghost](ghost)
+@- [Ghost with Filebase Backup](ghost-filebase-backup)
+@- [Grav](Grav)
 - [Wordpress](wordpress)
 - [Confluence](confluence)
 - [Drupal](drupal)
@@ -555,3 +555,7 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [SteemCN](steemcn)
+@- [Ghost](ghost)
+@- [Ghost with Filebase Backup](ghost-filebase-backup)
+@- [Grav](Grav)
