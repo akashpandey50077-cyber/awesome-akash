@@ -554,4 +554,20 @@ deployment:
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
-@- [Databases and Administration
+@- [Databases and Administration# Awesome Akash <!-- omit in toc -->
+
+Awesome Akash is a curated list of awesome resources people can use to familiarize themselves with [Akash](https://akash.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
+
+Instructions on how to deploy the SDL files in this repository can be found [here](https://akash.network/docs/deployments/overview/).
+
+Join our [Discord](https://discord.akash.network) if you have questions or concerns. Our team is always eager to hear from you.
+Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop with updates and announcements.
+
+## Contributing
+
+See our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on adding new templates and resources.
+
+To add a new template/resource:
+
+1. **Create a New Folder:**
+   - Name your folder using lowercase, hyphen-separated naming (e.g., `my
