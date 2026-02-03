@@ -57,8 +57,8 @@ To add a new template/resource:
 - [Tools](#tools)
 - [Network](#network)
 - [Video Conferencing](#video-conferencing)
-- [Wallet](#wallet)
-- [Web Frameworks](#web-frameworks)
+@- [Wallet](#wallet)
+@- [Web Frameworks](#web-frameworks)
 
 ### Official
 
@@ -555,3 +555,5 @@ deployment:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration
+@- [Wallet](#wallet)
+@- [Web Frameworks](#web-frameworks)
