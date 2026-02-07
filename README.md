@@ -570,4 +570,9 @@ See our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on adding new
 To add a new template/resource:
 
 1. **Create a New Folder:**
-   - Name your folder using lowercase, hyphen-separated naming (e.g., `my
+   - Name your folder using lowercase, hyphen-separated naming (e.g., `mysdk)
+@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration](#databases-and-administration)№
