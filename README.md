@@ -5,7 +5,12 @@ Awesome Akash is a curated list of awesome resources people can use to familiari
 Instructions on how to deploy the SDL files in this repository can be found [here](https://akash.network/docs/deployments/overview/).
 
 Join our [Discord](https://discord.akash.network) if you have questions or concerns. Our team is always eager to hear from you.
-Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop with updates and announcements.
+Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop with updates andsdk)
+@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration](#databases-and-administration) announcements.
 
 ## Contributing
 
@@ -575,4 +580,9 @@ To add a new template/resource:
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
-@- [Databases and Administration](#databases-and-administration)№
+@- [Databases and Administration](#databases-and-administration)№sdk)
+@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration](#databases-and-administration)
