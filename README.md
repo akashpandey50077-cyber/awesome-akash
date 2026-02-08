@@ -34,11 +34,11 @@ To add a new template/resource:
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Official](#official)
-- [AI - CPU](#ai---cpu)
-- [AI - GPU](#ai---gpu)
-- [Blogging](#blogging)
-- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
+@- [Official](#official)
+@- [AI - CPU](#ai---cpu)
+@- [AI - GPU](#ai---gpu)
+@- [Blogging](#blogging)
+@- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
 @- [Chat](#chat)
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
@@ -585,4 +585,8 @@ To add a new template/resource:
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
-@- [Databases and Administration](#databases-and-administration)
+@- [Databases and Administration](#databases-and-administration)@- [Official](#official)
+@- [AI - CPU](#ai---cpu)
+@- [AI - GPU](#ai---gpu)
+@- [Blogging](#blogging)
+@- [Built with Cosmos-SDK]№?
