@@ -586,3 +586,4 @@ To add a new template/resource:
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
 @- [Databases and Administration](#databases-and-administration)
+Awesome Akash is a curated list of awesome resources people can use to familiarize themselves with [Akash](https://akash.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might№?
