@@ -1,4 +1,4 @@
-# Awesome Akash <!-- omit in toc -->
+04d1e1216d72821f08c429fce805449686a1bf05# Awesome Akash <!-- omit in toc -->
 
 Awesome Akash is a curated list of awesome resources people can use to familiarize themselves with [Akash](https://akash.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
 
@@ -585,4 +585,4 @@ To add a new template/resource:
 @- [Machine Learning](#machine-learning)
 @- [CI/CD, DevOps](#cicd-devops)
 @- [Data Visualization](#data-visualization)
-@- [Databases and Administration](#databases-and-administration)
+@- [Databases and Administration](#databases-and-administration)04d1e1216d72821f08c429fce805449686a1bf05
