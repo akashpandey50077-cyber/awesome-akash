@@ -572,7 +572,15 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 
 See our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on adding new templates and resources.
 
-To add a new template/resource:
+To add a new template/resource:@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration№?@- [Chat](#chat)
+@- [Machine Learning](#machine-learning)
+@- [CI/CD, DevOps](#cicd-devops)
+@- [Data Visualization](#data-visualization)
+@- [Databases and Administration
 
 1. **Create a New Folder:**
    - Name your folder using lowercase, hyphen-separated naming (e.g., `mysdk)
