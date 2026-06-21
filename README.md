@@ -1,4 +1,4 @@
-04d1e1216d72821f08c429fce805449686a1bf05# Awesome Akash <!-- omit in toc -->
+u04d1e1216d72821f08c429fce805449686a1bf05# Awesome Akash <!-- omit in toc -->
 
 Awesome Akash is a curated list of awesome resources people can use to familiarize themselves with [Akash](https://akash.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
 
